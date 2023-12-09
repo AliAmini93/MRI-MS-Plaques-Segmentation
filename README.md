@@ -1,5 +1,5 @@
 # Segmentation of Multiple Sclerosis Disease Plaques from MRI Images Using 3D Attention U-Net
-![image](https://github.com/AliAmini93/MRI-MS-Plaques-Segmentation/assets/96921261/a9607f7a-4ee6-4173-90d7-9bfefb0ae7c7)
+
 ## Overview
 This repository contains the implementation of a 3D Attention U-Net model for segmenting Multiple Sclerosis (MS) disease plaques from MRI images. The model is designed to accurately segment lesions and track their evolution over time, addressing the unique challenges presented by MS lesion segmentation in longitudinal MRI datasets.
 
@@ -51,6 +51,9 @@ The `attn_unet_3D` function defines an Attention U-Net model for 3D image data, 
 
 ### Metric
 - **Dice Coefficient Correct**: This metric is likely a variant of the Dice coefficient, a common metric in image segmentation tasks, especially for evaluating performance in medical imaging.
+- 
+## Comparative Visualization of MRI Slice and Corresponding Segmentation Outputs
+![image](https://github.com/AliAmini93/MRI-MS-Plaques-Segmentation/assets/96921261/a9607f7a-4ee6-4173-90d7-9bfefb0ae7c7)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
