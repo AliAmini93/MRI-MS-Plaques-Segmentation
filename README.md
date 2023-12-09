@@ -22,7 +22,7 @@ The `attn_unet_3D` function defines an Attention U-Net model for 3D image data, 
 ## Architecture Details
 
 ### Input Layer
-- **Input**: The model starts with an input layer that accepts 3D data of a specified size (`input_size`).
+- **Input**: The model starts with an input layer that accepts 3D data.
 
 ### Downsampling Path (Encoder)
 - **Convolutional Blocks**: Each block in this path consists of two 3D convolutional layers with ReLU activation, followed by batch normalization.
