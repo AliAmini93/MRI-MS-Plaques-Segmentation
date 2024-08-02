@@ -43,6 +43,7 @@ The `attn_unet_3D` function defines an Attention U-Net model for 3D image data, 
 
 ### Output Layer
 - **Final Convolution**: A 3D convolutional layer with a single filter and a sigmoid activation function generates the final output, typically a segmented 3D image.
+![image](https://github.com/user-attachments/assets/81436efc-f122-4f89-887d-52712f982802)
 
 ## Compilation Details
 
