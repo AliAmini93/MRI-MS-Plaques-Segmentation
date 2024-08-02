@@ -56,6 +56,4 @@ The `attn_unet_3D` function defines an Attention U-Net model for 3D image data, 
 ## Comparative Visualization of MRI Slice and Corresponding Segmentation Outputs
 ![image](https://github.com/AliAmini93/MRI-MS-Plaques-Segmentation/assets/96921261/a9607f7a-4ee6-4173-90d7-9bfefb0ae7c7)
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
